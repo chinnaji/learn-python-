@@ -1,0 +1,1 @@
+In python, a list is equivalent to a JS array
